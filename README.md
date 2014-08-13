@@ -1,4 +1,4 @@
-# Learyounode Tutorial
+# Learnyounode Tutorial
 ==========================
 ## Installation
 
@@ -10,7 +10,7 @@
 * learnyounode
 
 ### Other commands
-* learyounode print // for instructions
+* learnyounode print // for instructions
 * learnyounode run program.js // executes program
 * learnyounode verify program.js // check program for correct solution
 * learnyounode help // displays help
